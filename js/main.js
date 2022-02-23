@@ -1,7 +1,3 @@
-var UZS =10839;
-var RUBL = 7990;
-var EURO = 0.88;
-
 var elForm = document.querySelector(".site-form");
 var elFormInput = document.querySelector(".site-form__input");
 var elFormSelect = document.querySelector(".site-form__select");
